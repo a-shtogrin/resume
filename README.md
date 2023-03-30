@@ -2,4 +2,4 @@
 
 ##Результат тут
 
-[Rezume](https://a-shtogrin.github.io/resume/resume)
+[Rezume](https://a-shtogrin.github.io/resume/)
